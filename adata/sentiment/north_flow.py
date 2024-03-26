@@ -206,6 +206,6 @@ class NorthFlow(BaseThs):
 
 
 if __name__ == '__main__':
-    print(NorthFlow().north_flow_min())
-    print(NorthFlow().north_flow_current())
-    print(NorthFlow().north_flow(start_date='2000-11-01'))
+    # print(NorthFlow().north_flow_min())
+    # print(NorthFlow().north_flow_current())
+    print(NorthFlow().north_flow(start_date='2024-03-13'))
